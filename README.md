@@ -5,6 +5,10 @@ dos instancias virtuales de EC2.
 
 ![](img/Arq1.png)
 
+## Author
+
+David Pérez
+
 ## Localmente
 
 Funciones a implementar por numero de cedula
@@ -53,3 +57,7 @@ Comprobamos su funcionamiento
 ![](img/sirvioenaws2.png)
 
 Corriendo en dos instancias distintas en dos puertos distintos 
+
+## Video
+
+https://youtu.be/4hH_LYJO_bA
